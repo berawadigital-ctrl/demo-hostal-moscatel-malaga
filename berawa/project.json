@@ -1,0 +1,68 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hostal-moscatel-malaga",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T13:05:00+01:00",
+ "updated_at": "2026-10-29T13:20:00+01:00",
+ "business": {
+  "name": "Hostal Moscatel",
+  "legal_name": "Hostal Moscatel Salitre Málaga, S.L.",
+  "registry_ids": [
+   "CIF B93494961"
+  ],
+  "url": "https://www.hostalmoscatel.com/",
+  "domain": "hostalmoscatel.com",
+  "municipality": "Málaga",
+  "province": "Málaga",
+  "address": "Calle Conde de las Navas, 9 · 29017 Málaga",
+  "phones": [
+   "+34 952 293 218"
+  ],
+  "emails": [
+   "info@hostalmoscatel.com"
+  ],
+  "sector": "hostal familiar de 2 estrellas en Pedregalejo (Málaga)"
+ },
+ "rating": {
+  "value": 4.2,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hostal+Moscatel/@36.7230583,-4.3664167,17z/data=!4m9!3m8!1s0xd725837fa35c76f:0xa0ee851c96f07918!5m2!4m1!1i2!8m2!3d36.7230583!4d-4.3664167!16s%2Fg%2F1q5bmz0nh",
+  "date": "2026-10-29T10:22:59+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": {
+   "es": "https://reserva.hostalmoscatel.com/",
+   "ca": "https://reserva.hostalmoscatel.com/",
+   "en": "https://reserva.hostalmoscatel.com/",
+   "fr": "https://reserva.hostalmoscatel.com/"
+  },
+  "note": "Las reservas van al motor de reservas real del hostal (reserva.hostalmoscatel.com, el destino de su boton «Reservas»); la demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://www.hostalmoscatel.com/",
+  "date": "2026-10-29T12:52:40+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
