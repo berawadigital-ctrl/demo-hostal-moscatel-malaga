@@ -1,0 +1,455 @@
+{
+ "url": "file:///tmp/clon-hostal-moscatel-malaga/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 10 habitaciones en dos plantas, de ocho tipos: doble con bañera de hidromasaje, doble superior, doble superior con sofá cama para dos,"
+    },
+    {
+     "q": "¿Hay habitación con bañera de hidromasaje?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: la doble superior con bañera de hidromasaje es amplia y luminosa, con un pequeño balcón al patio andaluz, cama doble de 150 cm, cafetera"
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Está en Calle Conde de las Navas, 9, 29017 Málaga, en Pedregalejo, antiguo barrio de pescadores del distrito Este, a unos 5 km del centro hi"
+    },
+    {
+     "q": "¿Cómo llego al centro?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Con las líneas 11, 3 y 8 de la EMT llegas al centro en unos 15-20 minutos; hay parada de autobús a escasos metros."
+    },
+    {
+     "q": "¿Cómo llego desde el aeropuerto?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Desde el aeropuerto: tren de Cercanías C1 o autobús Exprés A hasta el centro y luego las líneas 3, 8 u 11 de la EMT (dirección El Palo) hast"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La entrada es a partir de las 14:00 y la salida antes de las 11:30. Salir más tarde puede generar cargos adicionales."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, se aceptan mascotas: una por habitación y solo perros y gatos, respetando las normas del hostal."
+    },
+    {
+     "q": "¿Qué servicios tiene?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Gestión de coche de alquiler, traslados al aeropuerto y estaciones, kit de playa con sombrilla y esterilla y check-in tardío. Las habitacion"
+    },
+    {
+     "q": "¿Cuál es el horario de atención?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Atención de lunes a jueves de 9:30 a 17:00 y de viernes a domingo de 10:30 a 15:00; los festivos hay horarios especiales. También responden "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 952 293 218 o escribir a info@hostalmoscatel.com. Este asistente no "
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Según su aviso legal, el titular es Hostal Moscatel Salitre Málaga, S.L, CIF B93494961."
+    },
+    {
+     "q": "¿Está cerca de la playa?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí: está en Pedregalejo, con playa, paseo marítimo, chiringuitos y restaurantes a solo un paso. La playa de Pedregalejo es una de las más po"
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 952 293 218 · info@hostalmoscatel.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 952 293 218 o escribir a info@hostalmoscatel.com. Este asistente no "
+    },
+    {
+     "q": "¿Tienen gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 952 293 218 · info@hostalmoscatel.com."
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 952 293 218 · info@hostalmoscatel.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Dónde está?",
+    "¿Cómo llego al centro?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "stat2",
+    "svc0",
+    "room1_n",
+    "room2_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 10 habitacions en dues plantes, de vuit tipus: doble amb banyera d'hidromassatge, doble superior, doble superior amb sofà llit per a dos,"
+    },
+    {
+     "q": "Hi ha habitació amb banyera d'hidromassatge?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: la doble superior amb banyera d'hidromassatge és àmplia i lluminosa, amb un petit balcó al pati andalús, llit doble de 150 cm, cafetera "
+    },
+    {
+     "q": "On és?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "És al carrer Conde de las Navas, 9, 29017 Màlaga, a Pedregalejo, antic barri de pescadors del districte Est, a uns 5 km del centre històric."
+    },
+    {
+     "q": "Com arribo al centre?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Amb les línies 11, 3 i 8 de l'EMT arribes al centre en uns 15-20 minuts; hi ha parada d'autobús a pocs metres."
+    },
+    {
+     "q": "Com hi arribo des de l'aeroport?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Des de l'aeroport: tren de Rodalies C1 o autobús Exprés A fins al centre i després les línies 3, 8 o 11 de l'EMT (direcció El Palo) fins a l"
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "L'entrada és a partir de les 14:00 i la sortida abans de les 11:30. Sortir més tard pot generar càrrecs addicionals."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, s'accepten mascotes: una per habitació i només gossos i gats, respectant les normes de l'hostal."
+    },
+    {
+     "q": "Quins serveis té?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Gestió de cotxe de lloguer, trasllats a l'aeroport i estacions, kit de platja amb para-sol i estora i check-in tardà. Les habitacions tenen "
+    },
+    {
+     "q": "Quin és l'horari d'atenció?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Atenció de dilluns a dijous de 9:30 a 17:00 i de divendres a diumenge de 10:30 a 15:00; els festius hi ha horaris especials. També responen "
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 952 293 218 o escriure a info@hostalmoscatel.com. Aquest assistent no "
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Segons el seu avís legal, el titular és Hostal Moscatel Salitre Málaga, S.L, CIF B93494961."
+    },
+    {
+     "q": "És a prop de la platja?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí: és a Pedregalejo, amb platja, passeig marítim, xiringuitos i restaurants a només un pas. La platja de Pedregalejo és una de les més popu"
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 952 293 218 · info@hostalmoscatel.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 952 293 218 o escriure a info@hostalmoscatel.com. Aquest assistent no "
+    },
+    {
+     "q": "Teniu gimnàs?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 952 293 218 · info@hostalmoscatel.com."
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 952 293 218 · info@hostalmoscatel.com."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "On és?",
+    "Com arribo al centre?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat2",
+    "svc0",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 10 rooms on two floors, in eight types: double with whirlpool bath, superior double, superior double with a sofa bed for two, standar"
+    },
+    {
+     "q": "Is there a room with a whirlpool bath?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes: the superior double with whirlpool bath is spacious and bright, with a small balcony onto the Andalusian patio, a 150 cm double bed, a "
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "It is at Calle Conde de las Navas, 9, 29017 Málaga, in Pedregalejo, an old fishing quarter in the East district, about 5 km from the histori"
+    },
+    {
+     "q": "How do I get to the centre?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "EMT bus lines 11, 3 and 8 take you to the centre in about 15-20 minutes; there is a bus stop just a few metres away."
+    },
+    {
+     "q": "How do I get there from the airport?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "From the airport: C1 commuter train or Express A bus to the centre, then EMT lines 3, 8 or 11 (towards El Palo) to the Elcano – Jaboneros st"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Check-in is from 14:00 and check-out before 11:30. Leaving later may incur extra charges."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Yes, pets are welcome: one per room, dogs and cats only, following the hostal's rules."
+    },
+    {
+     "q": "What services are there?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Car rental arranged, transfers to the airport and stations, a beach kit with umbrella and mat, and late check-in. Rooms have wifi and air co"
+    },
+    {
+     "q": "What are the opening hours?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Opening hours: Monday to Thursday 9:30 to 17:00 and Friday to Sunday 10:30 to 15:00; special hours on public holidays. They also answer by e"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 952 293 218 or email info@hostalmoscatel.com. This assistant does not confirm ava"
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "According to its legal notice, the owner is Hostal Moscatel Salitre Málaga, S.L, CIF B93494961."
+    },
+    {
+     "q": "Is it close to the beach?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Yes: it is in Pedregalejo, with the beach, seafront promenade, beach bars and restaurants just a step away. Pedregalejo beach is one of the "
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 952 293 218 · info@hostalmoscatel.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 952 293 218 or email info@hostalmoscatel.com. This assistant does not confirm ava"
+    },
+    {
+     "q": "Do you have a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 952 293 218 · info@hostalmoscatel.com."
+    },
+    {
+     "q": "Is there a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 952 293 218 · info@hostalmoscatel.com."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Where is it?",
+    "How do I get to the centre?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "svc0",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 10 chambres sur deux étages, de huit types : double avec baignoire balnéo, double supérieure, double supérieure avec canapé-lit po"
+    },
+    {
+     "q": "Y a-t-il une chambre avec baignoire balnéo ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui : la double supérieure avec baignoire balnéo est spacieuse et lumineuse, avec un petit balcon sur le patio andalou, un lit double de 150"
+    },
+    {
+     "q": "Où est-il ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il se trouve Calle Conde de las Navas, 9, 29017 Malaga, à Pedregalejo, ancien quartier de pêcheurs du district Est, à environ 5 km du centre"
+    },
+    {
+     "q": "Comment aller au centre ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Les lignes 11, 3 et 8 de l'EMT vous emmènent au centre en 15-20 minutes environ ; un arrêt de bus se trouve à quelques mètres."
+    },
+    {
+     "q": "Comment venir depuis l'aéroport ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Depuis l'aéroport : train de banlieue C1 ou bus Express A jusqu'au centre, puis les lignes 3, 8 ou 11 de l'EMT (direction El Palo) jusqu'à l"
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "L'arrivée se fait à partir de 14:00 et le départ avant 11:30. Un départ plus tardif peut entraîner des frais supplémentaires."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Oui, les animaux sont acceptés : un par chambre, uniquement chiens et chats, en respectant le règlement de l'hostal."
+    },
+    {
+     "q": "Quels services propose-t-il ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Location de voiture organisée, transferts vers l'aéroport et les gares, kit plage avec parasol et natte et arrivée tardive. Les chambres ont"
+    },
+    {
+     "q": "Quels sont les horaires d'accueil ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Accueil du lundi au jeudi de 9:30 à 17:00 et du vendredi au dimanche de 10:30 à 15:00 ; horaires spéciaux les jours fériés. Ils répondent au"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 952 293 218 ou écrire à info@hostalmoscatel.com. Cet as"
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Selon ses mentions légales, le titulaire est Hostal Moscatel Salitre Málaga, S.L, CIF B93494961."
+    },
+    {
+     "q": "Est-il près de la plage ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Oui : il est à Pedregalejo, avec la plage, la promenade maritime, les paillotes et les restaurants à deux pas. La plage de Pedregalejo est l"
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 952 293 218 · info@hostalmoscatel.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 952 293 218 ou écrire à info@hostalmoscatel.com. Cet as"
+    },
+    {
+     "q": "Avez-vous une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 952 293 218 · info@hostalmoscatel.com."
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 952 293 218 · info@hostalmoscatel.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "Où est-il ?",
+    "Comment aller au centre ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
