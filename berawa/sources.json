@@ -1,0 +1,52 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hostalmoscatel.com/",
+ "read_at": "2026-10-29T13:08:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hostalmoscatel.com/",
+   "sha256": "47f35604f72e12165e965c37482173be978746762859a84bd64932b918d86466",
+   "chars": 8112
+  },
+  {
+   "url": "https://www.hostalmoscatel.com/accommodation/habitacion-doble-banera-hidromasaje/",
+   "sha256": "0d2ca4bf73a09df189419e69198c9150dbfd33fd5f78250b6291e318ca6e92de",
+   "chars": 5179
+  },
+  {
+   "url": "https://www.hostalmoscatel.com/aviso-legal/",
+   "sha256": "339d26f2d27babcb2bfb2bcbb054147f3c61f03192da294831fe9e985e4d63ab",
+   "chars": 18379
+  },
+  {
+   "url": "https://www.hostalmoscatel.com/contactar/",
+   "sha256": "f923b61621c3e8c8f843c0c38c558834d3ac2a2f9cad3cb06340fb55fd2f0e21",
+   "chars": 31779
+  },
+  {
+   "url": "https://www.hostalmoscatel.com/nosotros/",
+   "sha256": "c33fbfd719b1f1b8254a08c50c01b6d92fda3f1d83e8e5a21f572dd57c124ecc",
+   "chars": 9251
+  },
+  {
+   "url": "https://www.hostalmoscatel.com/regimen-interior/",
+   "sha256": "d2d013010d1dfba50965f051504f7ac2b31f483374cbe8935b36bf6b5d954c80",
+   "chars": 12460
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hostalmoscatel.com/accommodation/habitacion-doble-estandar/",
+  "https://www.hostalmoscatel.com/accommodation/habitacion-doble-pequena/",
+  "https://www.hostalmoscatel.com/accommodation/habitacion-doble-superior/",
+  "https://www.hostalmoscatel.com/accommodation/habitacion-familiar/",
+  "https://www.hostalmoscatel.com/accommodation/habitacion-individual/",
+  "https://www.hostalmoscatel.com/accommodation/habitacion-para-tres-con-tres-camas/",
+  "https://www.hostalmoscatel.com/accommodation/habitacion-twin/",
+  "https://www.hostalmoscatel.com/blog/",
+  "https://www.hostalmoscatel.com/condiciones-contratacion/",
+  "https://www.hostalmoscatel.com/galeria/",
+  "https://www.hostalmoscatel.com/habitaciones/",
+  "https://www.hostalmoscatel.com/reserva/"
+ ]
+}

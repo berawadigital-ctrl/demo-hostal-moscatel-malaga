@@ -1,0 +1,534 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hostal-moscatel-malaga",
+ "source_site": "https://www.hostalmoscatel.com/",
+ "source_read_at": "2026-10-29T13:08:00+01:00",
+ "note": "Respuestas solo con datos publicados en hostalmoscatel.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion"
+    ],
+    "ca": [
+     "quines habitacions",
+     "tipus d habitacio"
+    ],
+    "en": [
+     "what rooms",
+     "room types"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre"
+    ]
+   },
+   "a": {
+    "es": "Tiene 10 habitaciones en dos plantas, de ocho tipos: doble con bañera de hidromasaje, doble superior, doble superior con sofá cama para dos, doble estándar, doble económica, twin, triple con tres camas e individual.",
+    "ca": "Té 10 habitacions en dues plantes, de vuit tipus: doble amb banyera d'hidromassatge, doble superior, doble superior amb sofà llit per a dos, doble estàndard, doble econòmica, twin, triple amb tres llits i individual.",
+    "en": "It has 10 rooms on two floors, in eight types: double with whirlpool bath, superior double, superior double with a sofa bed for two, standard double, economy double, twin, triple with three beds and single.",
+    "fr": "Il compte 10 chambres sur deux étages, de huit types : double avec baignoire balnéo, double supérieure, double supérieure avec canapé-lit pour deux, double standard, double économique, twin, triple à trois lits et individuelle."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalmoscatel.com/nosotros/",
+     "quote": "El Hostal Moscatel tiene solo 10 habitaciones, bien equipadas, distribuidas en dos plantas."
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/",
+     "quote": "Habitación doble bañera hidromasaje Habitación doble superior Habitación doble estandar Habitación doble económica Habitación doble superior más sofá supletorio para dos Habitación para tres (3 camas) Habitación twin Habitación individual"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "hidromasaje",
+   "keys": {
+    "es": [
+     "hidromasaje",
+     "banera"
+    ],
+    "ca": [
+     "hidromassatge",
+     "banyera"
+    ],
+    "en": [
+     "whirlpool",
+     "bathtub"
+    ],
+    "fr": [
+     "balneo",
+     "baignoire"
+    ]
+   },
+   "a": {
+    "es": "Sí: la doble superior con bañera de hidromasaje es amplia y luminosa, con un pequeño balcón al patio andaluz, cama doble de 150 cm, cafetera Nespresso y hervidor. Mide unos 20 m² con baño y es para un máximo de 2 personas.",
+    "ca": "Sí: la doble superior amb banyera d'hidromassatge és àmplia i lluminosa, amb un petit balcó al pati andalús, llit doble de 150 cm, cafetera Nespresso i bullidor. Fa uns 20 m² amb bany i és per a un màxim de 2 persones.",
+    "en": "Yes: the superior double with whirlpool bath is spacious and bright, with a small balcony onto the Andalusian patio, a 150 cm double bed, a Nespresso machine and a kettle. It is about 20 m² including the bathroom, for up to 2 people.",
+    "fr": "Oui : la double supérieure avec baignoire balnéo est spacieuse et lumineuse, avec un petit balcon sur le patio andalou, un lit double de 150 cm, une machine Nespresso et une bouilloire. Elle fait environ 20 m² salle de bain comprise, pour 2 personnes maximum."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalmoscatel.com/accommodation/habitacion-doble-banera-hidromasaje/",
+     "quote": "La elección ideal para estancias largas, amplia, cálida, cómoda y luminosa con un pequeño balcón con vistas al patio Andaluz"
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/accommodation/habitacion-doble-banera-hidromasaje/",
+     "quote": "Cama doble grande 150CM"
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/accommodation/habitacion-doble-banera-hidromasaje/",
+     "quote": "cafetera nespresso, ketel"
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/accommodation/habitacion-doble-banera-hidromasaje/",
+     "quote": "Tamaño 20 m2 aprox, incluido baño. Ocupación Máximo 2 personas."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe"
+    ]
+   },
+   "a": {
+    "es": "Está en Calle Conde de las Navas, 9, 29017 Málaga, en Pedregalejo, antiguo barrio de pescadores del distrito Este, a unos 5 km del centro histórico.",
+    "ca": "És al carrer Conde de las Navas, 9, 29017 Màlaga, a Pedregalejo, antic barri de pescadors del districte Est, a uns 5 km del centre històric.",
+    "en": "It is at Calle Conde de las Navas, 9, 29017 Málaga, in Pedregalejo, an old fishing quarter in the East district, about 5 km from the historic centre.",
+    "fr": "Il se trouve Calle Conde de las Navas, 9, 29017 Malaga, à Pedregalejo, ancien quartier de pêcheurs du district Est, à environ 5 km du centre historique."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "Hostal Moscatel Calle Conde de las Navas, 9 29017 Málaga (Pedregalejo)"
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "En Pedregalejo, distrito Este de la cuidad, es un antiguo barrio de pescadores. A unos 5 Kilómetros del centro histórico"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "ir al centro",
+   "keys": {
+    "es": [
+     "centro",
+     "autobus"
+    ],
+    "ca": [
+     "centre",
+     "autobus"
+    ],
+    "en": [
+     "centre",
+     "center",
+     "bus"
+    ],
+    "fr": [
+     "centre",
+     "bus"
+    ]
+   },
+   "a": {
+    "es": "Con las líneas 11, 3 y 8 de la EMT llegas al centro en unos 15-20 minutos; hay parada de autobús a escasos metros.",
+    "ca": "Amb les línies 11, 3 i 8 de l'EMT arribes al centre en uns 15-20 minuts; hi ha parada d'autobús a pocs metres.",
+    "en": "EMT bus lines 11, 3 and 8 take you to the centre in about 15-20 minutes; there is a bus stop just a few metres away.",
+    "fr": "Les lignes 11, 3 et 8 de l'EMT vous emmènent au centre en 15-20 minutes environ ; un arrêt de bus se trouve à quelques mètres."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "Las líneas 11, 3 y 8 conectan el centro de la ciudad con nuestra puerta en unos 15-20 minutos."
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "¿Hay una parada de autobús cerca del hostal? Si, a escasos metros."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "aeropuerto",
+   "keys": {
+    "es": [
+     "aeropuerto",
+     "traslado"
+    ],
+    "ca": [
+     "aeroport",
+     "trasllat"
+    ],
+    "en": [
+     "airport",
+     "transfer"
+    ],
+    "fr": [
+     "aeroport",
+     "transfert"
+    ]
+   },
+   "a": {
+    "es": "Desde el aeropuerto: tren de Cercanías C1 o autobús Exprés A hasta el centro y luego las líneas 3, 8 u 11 de la EMT (dirección El Palo) hasta la parada Elcano – Jaboneros, a 2 o 3 minutos caminando. También pueden organizar un taxi concertado con 24 horas de antelación.",
+    "ca": "Des de l'aeroport: tren de Rodalies C1 o autobús Exprés A fins al centre i després les línies 3, 8 o 11 de l'EMT (direcció El Palo) fins a la parada Elcano – Jaboneros, a 2 o 3 minuts a peu. També poden organitzar un taxi concertat amb 24 hores d'antelació.",
+    "en": "From the airport: C1 commuter train or Express A bus to the centre, then EMT lines 3, 8 or 11 (towards El Palo) to the Elcano – Jaboneros stop, 2 or 3 minutes' walk away. They can also arrange a pre-booked taxi with 24 hours' notice.",
+    "fr": "Depuis l'aéroport : train de banlieue C1 ou bus Express A jusqu'au centre, puis les lignes 3, 8 ou 11 de l'EMT (direction El Palo) jusqu'à l'arrêt Elcano – Jaboneros, à 2 ou 3 minutes à pied. Ils peuvent aussi organiser un taxi réservé 24 heures à l'avance."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "Tren de Cercanías (C1)"
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "Autobús Exprés A"
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "Línea 3 Línea 8 Línea 11 Bájate en la parada Elcano – Jaboneros . Desde allí, el Hostal Moscatel se encuentra a 2 o 3 minutos caminando ."
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "Podemos organizar tu recogida en el aeropuerto mediante una empresa de taxis colaboradora."
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "Antelación de contratación de 24 horas."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "entrada y salida",
+   "keys": {
+    "es": [
+     "check",
+     "entrada",
+     "salida"
+    ],
+    "ca": [
+     "check",
+     "entrada",
+     "sortida"
+    ],
+    "en": [
+     "check",
+     "arrival time",
+     "departure"
+    ],
+    "fr": [
+     "check",
+     "arrivee",
+     "depart"
+    ]
+   },
+   "a": {
+    "es": "La entrada es a partir de las 14:00 y la salida antes de las 11:30. Salir más tarde puede generar cargos adicionales.",
+    "ca": "L'entrada és a partir de les 14:00 i la sortida abans de les 11:30. Sortir més tard pot generar càrrecs addicionals.",
+    "en": "Check-in is from 14:00 and check-out before 11:30. Leaving later may incur extra charges.",
+    "fr": "L'arrivée se fait à partir de 14:00 et le départ avant 11:30. Un départ plus tardif peut entraîner des frais supplémentaires."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalmoscatel.com/regimen-interior/",
+     "quote": "La entrada (check-in) podrá realizarse a partir de las 14:00 horas. La salida (check-out) deberá efectuarse antes de las 11:30 horas."
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/regimen-interior/",
+     "quote": "Las salidas posteriores a la hora establecida podrán generar cargos adicionales."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato"
+    ],
+    "ca": [
+     "mascot",
+     "gos"
+    ],
+    "en": [
+     "pet",
+     "dog"
+    ],
+    "fr": [
+     "animaux",
+     "chien",
+     "chat"
+    ]
+   },
+   "a": {
+    "es": "Sí, se aceptan mascotas: una por habitación y solo perros y gatos, respetando las normas del hostal.",
+    "ca": "Sí, s'accepten mascotes: una per habitació i només gossos i gats, respectant les normes de l'hostal.",
+    "en": "Yes, pets are welcome: one per room, dogs and cats only, following the hostal's rules.",
+    "fr": "Oui, les animaux sont acceptés : un par chambre, uniquement chiens et chats, en respectant le règlement de l'hostal."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalmoscatel.com/",
+     "quote": "Se aceptan mascotas, porque son parte de la familia."
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/regimen-interior/",
+     "quote": "Se admitirá únicamente una mascota por habitación. Solo se aceptarán perros y gatos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "servicios",
+   "keys": {
+    "es": [
+     "servicios",
+     "parking",
+     "aparcar",
+     "wifi"
+    ],
+    "ca": [
+     "serveis",
+     "parking",
+     "aparcar",
+     "wifi"
+    ],
+    "en": [
+     "services",
+     "parking",
+     "wifi"
+    ],
+    "fr": [
+     "services",
+     "parking",
+     "wifi"
+    ]
+   },
+   "a": {
+    "es": "Gestión de coche de alquiler, traslados al aeropuerto y estaciones, kit de playa con sombrilla y esterilla y check-in tardío. Las habitaciones tienen wifi y aire acondicionado/calefacción, y hay un parking privado a 3 minutos caminando.",
+    "ca": "Gestió de cotxe de lloguer, trasllats a l'aeroport i estacions, kit de platja amb para-sol i estora i check-in tardà. Les habitacions tenen wifi i aire condicionat/calefacció, i hi ha un pàrquing privat a 3 minuts a peu.",
+    "en": "Car rental arranged, transfers to the airport and stations, a beach kit with umbrella and mat, and late check-in. Rooms have wifi and air conditioning/heating, and there is a private car park a 3-minute walk away.",
+    "fr": "Location de voiture organisée, transferts vers l'aéroport et les gares, kit plage avec parasol et natte et arrivée tardive. Les chambres ont le wifi et la climatisation/chauffage, et un parking privé se trouve à 3 minutes à pied."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalmoscatel.com/nosotros/",
+     "quote": "Gestion de coche de alquiler ✓ Traslados desde y hacia el aeropuerto y estación de trenes y autobús ✓ Kit de playa sombrilla y esterilla ✓ Check-in late"
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/accommodation/habitacion-doble-banera-hidromasaje/",
+     "quote": "wiﬁ, aire acondicionado/calefacción"
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/nosotros/",
+     "quote": "parking privado muy cerca a 3 min caminando"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "horario",
+   "keys": {
+    "es": [
+     "horario",
+     "atencion",
+     "recepcion"
+    ],
+    "ca": [
+     "horari",
+     "atencio",
+     "recepcio"
+    ],
+    "en": [
+     "opening hours",
+     "reception",
+     "office hours"
+    ],
+    "fr": [
+     "horaires",
+     "accueil",
+     "reception"
+    ]
+   },
+   "a": {
+    "es": "Atención de lunes a jueves de 9:30 a 17:00 y de viernes a domingo de 10:30 a 15:00; los festivos hay horarios especiales. También responden por email y WhatsApp.",
+    "ca": "Atenció de dilluns a dijous de 9:30 a 17:00 i de divendres a diumenge de 10:30 a 15:00; els festius hi ha horaris especials. També responen per correu i WhatsApp.",
+    "en": "Opening hours: Monday to Thursday 9:30 to 17:00 and Friday to Sunday 10:30 to 15:00; special hours on public holidays. They also answer by email and WhatsApp.",
+    "fr": "Accueil du lundi au jeudi de 9:30 à 17:00 et du vendredi au dimanche de 10:30 à 15:00 ; horaires spéciaux les jours fériés. Ils répondent aussi par e-mail et WhatsApp."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "- Lunes a Jueves: 9:30 a 17:00. - Viernes a Domingo: 10:30 a 15:00. Festivos nacionales y locales habrá horarios especiales."
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "Y recuerda que te podemos atender por email o WhtasApp."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free room",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 952 293 218 o escribir a info@hostalmoscatel.com. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 952 293 218 o escriure a info@hostalmoscatel.com. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can book on its booking engine (Book button), call +34 952 293 218 or email info@hostalmoscatel.com. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 952 293 218 ou écrire à info@hostalmoscatel.com. Cet assistant ne confirme ni disponibilités ni réservations."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "Tel: +34 952 293 218"
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "info@hostalmoscatel.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K11",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif"
+    ]
+   },
+   "a": {
+    "es": "Según su aviso legal, el titular es Hostal Moscatel Salitre Málaga, S.L, CIF B93494961.",
+    "ca": "Segons el seu avís legal, el titular és Hostal Moscatel Salitre Málaga, S.L, CIF B93494961.",
+    "en": "According to its legal notice, the owner is Hostal Moscatel Salitre Málaga, S.L, CIF B93494961.",
+    "fr": "Selon ses mentions légales, le titulaire est Hostal Moscatel Salitre Málaga, S.L, CIF B93494961."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalmoscatel.com/aviso-legal/",
+     "quote": "Denominación Social: Hostal Moscatel Salitre Málaga, S.L C.I.F.: B93494961"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "playa",
+   "keys": {
+    "es": [
+     "playa",
+     "paseo maritimo"
+    ],
+    "ca": [
+     "platja",
+     "passeig maritim"
+    ],
+    "en": [
+     "beach",
+     "seafront"
+    ],
+    "fr": [
+     "plage",
+     "front de mer"
+    ]
+   },
+   "a": {
+    "es": "Sí: está en Pedregalejo, con playa, paseo marítimo, chiringuitos y restaurantes a solo un paso. La playa de Pedregalejo es una de las más populares de Málaga.",
+    "ca": "Sí: és a Pedregalejo, amb platja, passeig marítim, xiringuitos i restaurants a només un pas. La platja de Pedregalejo és una de les més populars de Màlaga.",
+    "en": "Yes: it is in Pedregalejo, with the beach, seafront promenade, beach bars and restaurants just a step away. Pedregalejo beach is one of the most popular in Málaga.",
+    "fr": "Oui : il est à Pedregalejo, avec la plage, la promenade maritime, les paillotes et les restaurants à deux pas. La plage de Pedregalejo est l'une des plus populaires de Malaga."
+   },
+   "sources": [
+    {
+     "url": "https://www.hostalmoscatel.com/contactar/",
+     "quote": "Es una situación envidiable, playa, paseo marítimo, parques, chiringuitos, restaurantes y todo tipo de comercios a solo un paso."
+    },
+    {
+     "url": "https://www.hostalmoscatel.com/nosotros/",
+     "quote": "Playa de Pedregalejo Es una de las playas más populares de la ciudad de Málaga."
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
